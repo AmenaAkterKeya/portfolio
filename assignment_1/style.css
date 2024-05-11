@@ -1,0 +1,161 @@
+body {
+  background-color: #131318;
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+.Toggle {
+  background-color: white;
+}
+
+.nav_bar {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  margin-left: 10%;
+}
+
+.l_w {
+  width: 25%;
+}
+
+.nav {
+  margin-right: 135px;
+  font-size: 18px;
+}
+
+.nav-link {
+  color: #ffff;
+}
+
+.nav-link:hover {
+  color: #00ffff;
+}
+
+.link {
+  text-decoration: none;
+  color: #131318;
+}
+.link:hover {
+  color: #fff;
+}
+.f_i:hover {
+  color: #fff;
+}
+.resume {
+  background-color: #00ffff;
+}
+/* banner  */
+.about {
+  width: 75%;
+  margin-left: 135px;
+}
+.name {
+  font-size: 50px;
+  color: #00ffff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.c5 {
+  font-size: 15px;
+}
+.des_text {
+  margin-top: 30px;
+  font-size: 13px;
+}
+/* portfolio */
+.project {
+  margin-top: 10px;
+  border: 1px solid #6c757d;
+}
+.p-2 {
+  margin-top: 15px;
+}
+/* education */
+.edu-caption {
+  color: #00ffff;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 5px;
+}
+.skill {
+  width: 75%;
+}
+.skill-item {
+  margin-left: 8pxs;
+}
+.skill-btn {
+  margin: 2px;
+  background-color: #6c757d;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  outline: none;
+}
+.edu {
+  margin-left: 135px;
+}
+/* contact */
+.from-main {
+  width: 50%;
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 5px 5px 9px #767676;
+  border: 1px solid #767676;
+  color: #fff;
+}
+
+.form_text {
+  padding: 15px;
+  margin: 10px;
+  background-color: #131318;
+  color: #fff;
+  outline: none;
+}
+
+.text_area {
+  padding: 35px;
+  margin: 10px;
+  background-color: #131318;
+  color: #fff;
+  outline: none;
+}
+
+.submit-btn {
+  background-color: #767676;
+  width: 50%;
+  color: #00ffff;
+  font-weight: bold;
+  padding: 15px 30px;
+  border: none;
+  margin-top: 10px;
+}
+
+/* footer */
+footer {
+  color: white;
+}
+
+.f_t {
+  font-size: 14px;
+}
+
+.social-icons {
+  padding: 3px;
+  font-size: 25px;
+}
+
+.f-s {
+  color: #00ffff;
+}
+
+.f-s:hover {
+  color: white;
+}

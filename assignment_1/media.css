@@ -1,0 +1,75 @@
+@media (max-width: 425px) and (min-width: 320px) {
+  .logo {
+    margin-left: 0;
+  }
+  .l_w {
+    width: 20%;
+  }
+  .about {
+    margin-left: 20px;
+  }
+  .name {
+    font-size: 21px;
+  }
+  .skill {
+    width: 100%;
+  }
+  .skills-btn-box {
+    flex-wrap: wrap;
+  }
+  .skill-btn {
+    font-size: 14px;
+    padding: 3px;
+    margin: 3px;
+  }
+  .project-title {
+    margin-top: 14px;
+    font-size: 20px;
+  }
+  .project-desc {
+    font-size: 14px;
+  }
+  .project_list {
+    margin-left: -15px;
+  }
+  .edu-caption {
+    font-size: 25px;
+  }
+  .edu-text {
+    font-size: 16px;
+  }
+  .edu {
+    margin: auto;
+  }
+  .contact_me {
+    font-size: 20px;
+  }
+  .from-main {
+    width: 100%;
+    margin: auto;
+    padding: 0px;
+    box-shadow: 2px 2px 6px #767676;
+  }
+  .form_text {
+    padding: 8px;
+    margin: 6px;
+  }
+  .text_area {
+    padding: 11px;
+    margin: 8px;
+  }
+  .submit-btn {
+    margin-bottom: 10px;
+    width: 50%;
+    padding: 10px;
+  }
+}
+@media (min-width: 768px) {
+  .photo {
+    margin-top: 30px;
+    width: 270px;
+  }
+  .edu {
+    margin: auto;
+  }
+}
